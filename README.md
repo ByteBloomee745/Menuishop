@@ -1,4 +1,4 @@
-# Site Statique - Menuiserie à Fès
+# Site Statique - Menuiserie shop à Fès
 
 Bienvenue sur la version statique du site web de notre atelier de menuiserie basé à **Fès, Maroc**. Ce site présente nos réalisations, nos services et nos coordonnées, et a été généré à partir d'un site WordPress existant.
 
