@@ -11,9 +11,5 @@ Ce site vitrine a été initialement conçu sous WordPress, puis converti en HTM
 ## 📷 Propriété des contenus
 Toutes les images et ressources utilisées dans ce site sont la propriété exclusive de l’atelier de menuiserie. Leur réutilisation est strictement interdite sans autorisation préalable.
 
-## 📁 Structure du projet
-- `index.html` : Page d’accueil
-- `css/`, `js/`, `images/` : Ressources associées
-
 ## 📜 Licence
 Ce projet n'est pas open source. **Tous droits réservés.**
